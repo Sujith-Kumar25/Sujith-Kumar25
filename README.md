@@ -10,7 +10,6 @@ Full Stack Developer • MCA Graduate • DevOps
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Things" />
 </p>
 
-### 👨‍💻 About Me
 
 - 🎓 MCA Graduate from India
 
@@ -27,7 +26,7 @@ Full Stack Developer • MCA Graduate • DevOps
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<span align="left">
 <a href="https://www.linkedin.com/in/sujith-k-61231b295?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
@@ -39,7 +38,7 @@ Full Stack Developer • MCA Graduate • DevOps
 <a href="https://github.com/Sujith-Kumar25/">
 <img src="https://skillicons.dev/icons?i=github" width="35"/>
 </a>
-</p>
+</span>
 
 
 ## 🛠️ Tech Stack
