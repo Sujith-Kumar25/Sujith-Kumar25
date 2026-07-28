@@ -29,15 +29,15 @@ Full Stack Developer • MCA Graduate • DevOps
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sujith-k-61231b295?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
 
 <a href="mailto:sujithkumar1413@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
 </a>
 
 <a href="https://github.com/Sujith-Kumar25/">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="35"/>
 </a>
 </p>
 
