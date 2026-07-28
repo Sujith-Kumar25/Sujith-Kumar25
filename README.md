@@ -3,20 +3,16 @@ Hi 👋, I'm Sujith Kumar
 </h1>
 
 <h3 align="center">
-Full Stack Developer • MCA Graduate • DevOps Enthusiast
+Full Stack Developer • MCA Graduate • DevOps 
 </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Things" />
 </p>
 
----
-
 ### 👨‍💻 About Me
 
 - 🎓 MCA Graduate from India
-
-- 💼 Completed a **DevOps & Cloud Computing Internship**
 
 - 💻 Passionate about **Full Stack Development** and **Backend Engineering**
 
@@ -28,7 +24,6 @@ Full Stack Developer • MCA Graduate • DevOps Enthusiast
 
 - 📫 Reach me at **sujithkumar1413@gmail.com**
 
----
 
 ### 🌐 Connect with Me
 
@@ -46,82 +41,21 @@ Full Stack Developer • MCA Graduate • DevOps Enthusiast
 </a>
 </p>
 
----
 
-### 💻 Languages
+## 🛠️ Tech Stack
 
-<p>
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 
-<img src="https://skillicons.dev/icons?i=java"/>
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react" />
 
-<img src="https://skillicons.dev/icons?i=python"/>
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+**Database:**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
-</p>
-
----
-
-### 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwindcss"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-</p>
-
----
-
-### ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-</p>
-
----
-
-### 🗄️ Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-### 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-</p>
-
----
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes" />
 
